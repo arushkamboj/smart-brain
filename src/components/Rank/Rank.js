@@ -4,7 +4,7 @@ const Rank = ( ) => {
     return (
         <div>
             <div className='white f3'>
-                {'Arush, you can detect images now....'}
+                {'Arush, you can now detect faces!'}
             </div>
             
             <div className='white f3'>
