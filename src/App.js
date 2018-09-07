@@ -12,7 +12,7 @@ import  Clarifai from 'clarifai';
 
 
 const app = new Clarifai.App({
- apiKey: 'YOU_API_KEY'
+ apiKey: 'YOUR_API_KEY'
 });
 
 const particleOptions = {
