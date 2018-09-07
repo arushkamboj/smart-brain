@@ -10,7 +10,7 @@ import Rank from './components/Rank/Rank';
 import './App.css';
 import  Clarifai from 'clarifai';
 
-
+//test
 const app = new Clarifai.App({
  apiKey: 'YOU_API_KEY'
 });
