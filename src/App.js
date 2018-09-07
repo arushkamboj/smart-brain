@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Particles from 'react-particles-js';
 import Navigation from './components/Navigation/Navigation';
 import Register from './components/Register/Register';
 import Signin from './components/Signin/Signin';
@@ -9,6 +8,7 @@ import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import Rank from './components/Rank/Rank';
 import './App.css';
 import  Clarifai from 'clarifai';
+import Particles from 'react-particles-js';
 
 
 const app = new Clarifai.App({
