@@ -7,8 +7,8 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
 import Rank from './components/Rank/Rank';
 import './App.css';
-import  Clarifai from './clarifai';
-import Particles from './react-particles-js';
+import  Clarifai from 'clarifai';
+import Particles from 'react-particles-js';
 
 //test
 const app = new Clarifai.App({
